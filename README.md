@@ -16,5 +16,6 @@ Le développement tourne autour de 2 paties principales :
 
  # Les classes 
  
-![Diagramme.png]
+![Diagramme.png](https://github.com/SamGdy/TpMarathon/blob/master/Diagramme.PNG)
+
 
