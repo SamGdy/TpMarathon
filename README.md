@@ -1,1 +1,20 @@
 # TpMarathon
+
+Présentation du projet : l'objectif est de réaliser une automatisation de l'analyse des résultats de plusieurs participants 
+en utilisant l'hériitage des classes. 
+
+Les outils mis en oeuvre :
+* visual studio
+
+Le développement tourne autour de 2 paties principales :
+1. Les différentes classes
+2. Les lien d'héritage
+
+|Développement  |langages |Technique de programmation   |
+|--|:---:|---|
+|Classes|C#|Programmation objet tests unitaires|
+
+ # Les classes 
+ 
+![Diagramme.png]
+
