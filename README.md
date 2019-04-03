@@ -7,7 +7,7 @@ Les outils mis en oeuvre :
 * visual studio
 * Heritage objet
 
-Le développement tourne autour de 2 paties principales :
+Le développement tourne autour de 2 parties principales :
 1. Les différentes classes
 2. Les liens d'héritages
 
