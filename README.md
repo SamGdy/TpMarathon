@@ -1,7 +1,7 @@
 # TpMarathon
 
 Présentation du projet : l'objectif est de réaliser une automatisation de l'analyse des résultats de plusieurs participants 
-en utilisant l'hériitage des classes. 
+en utilisant l'héritage des classes. 
 
 Les outils mis en oeuvre :
 * visual studio
